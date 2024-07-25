@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896452470217",
+    "project_id": "salestable-cbcff",
+    "storage_bucket": "salestable-cbcff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896452470217:android:df1448c69cb13e38c27418",
+        "android_client_info": {
+          "package_name": "com.company.sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5d9O55pLM6WCHxJiyZ6t2Nj9hw1euNKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
